@@ -1,0 +1,16 @@
+# NetBeans / Java build artifacts
+build/
+out/
+dist/
+nbproject/private/
+nbproject/build-impl.xml
+*.class
+*.jar
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
